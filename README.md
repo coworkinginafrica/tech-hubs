@@ -21,7 +21,7 @@
 | Rutyono Offices Limited                 	| Wuse            	| Abuja     	| 0706 681 3520 	| Link              	| Rutyono Offices Limited                 	|
 | The Innovation Hub                      	| Wuse            	| Abuja     	| 0809 612 8881 	| Link              	|                                         	|
 | IC7 Africa                              	| Wuse            	| Abuja     	| 0902 991 1933 	| Link              	| IC7 Africa                              	|
-| The Roothub                             	| Uyo             	| Akwa Ibom 	|               	| Link              	| The Roothub                             	|
+| The Roothub                             	| Uyo             	| Akwa Ibom 	| 0809 242 7901     | [Link](http://theroothub.com//)              	| The Roothub                             	|
 | Start Innovation Hub                    	| Uyo             	| Akwa Ibom 	| 0909 000 9216 	| Link              	| Start Innovation Hub                    	|
 | Hubitz                                  	| Uyo             	| Akwa Ibom 	| 0808 888 1058 	| Link              	| Hubitz                                  	|
 | Devamplify Hub                          	| Aroma Awka      	| Anambra   	| 0909 000 0962 	| Link              	| Devamplify Hub                          	|
