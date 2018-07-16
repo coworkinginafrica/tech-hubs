@@ -33,23 +33,23 @@
 | Founders Hub                            	| Ilorin          	| Kwara     	| 0908 217 1728 	| Link              	| Founders Hub                            	|
 | Mal Hub                                 	| Ilorin          	| Kwara     	| 0814 636 7757 	| Link              	| Mal Hub                                 	|
 | Mulliner Towers                         	| Ikoyi           	| Lagos     	|               	| Link              	|                                         	|
-| Venia Business Hub                      	| Lekki           	| Lagos     	| 08170374344   	| Link              	| Venia Business Hub                      	|
-| Seedspace                               	| Ikoyi           	| Lagos     	| 08064354498   	| Link              	| Seedspace                               	|
-| Cranium One                             	| Victoria Island 	| Lagos     	| 017120198     	| Link              	| Cranium One                             	|
-| Capital Square                          	| Ikoyi           	| Lagos     	| 08172233775   	| Link              	| Capital Square                          	|
-| Capital Square                          	| Lekki           	| Lagos     	| 08172233776   	| Link              	| Capital Square                          	|
-| Workstation                             	| Victoria Island 	| Lagos     	| 08188269675   	| Link              	| Workstation                             	|
-| Co-Creation Hub (CcHub)                 	| Yaba            	| Lagos     	| 012950555     	| Link              	| CcHub                                   	|
-| Leadspace                               	| Yaba            	| Lagos     	| 07033579178   	| Link              	| Leadspace                               	|
-| Leadspace                               	| Ojodu           	| Lagos     	| 07033579179   	| Link              	| Leadspace                               	|
-| Workbay                                 	| Maryland        	| Lagos     	| 08025472953   	| Link              	| Workbay                                 	|
-| Workbay                                 	| Ikeja           	| Lagos     	| 08025472954   	| Link              	| Workbay                                 	|
-| Workbay                                 	| Lekki           	| Lagos     	| 08025472955   	| Link              	| Workbay                                 	|
-| BVF Business Hub                        	| Lekki           	| Lagos     	| 08138134454   	| Link              	|                                         	|
-| Impact Hub                              	| Ikoyi           	| Lagos     	| 09092156205   	| Link              	| Impact Hub                              	|
-| V8 Valley - Workspace                   	| Lekki           	| Lagos     	| 08099526038   	| Link              	| V8 Valley                               	|
-| Enclaave                                	| Lekki           	| Lagos     	| 09030687100   	| Link              	| Enclaave                                	|
-| Velocity                                	| Lekki           	| Lagos     	| 09090000457   	| Link              	| Velocity                                	|
+| Venia Business Hub                      	| Lekki           	| Lagos     	| 0817 037 4344 	| Link              	| Venia Business Hub                      	|
+| Seedspace                               	| Ikoyi           	| Lagos     	| 0806 435 4498 	| Link              	| Seedspace                               	|
+| Cranium One                             	| Victoria Island 	| Lagos     	| 01 712 0198   	| Link              	| Cranium One                             	|
+| Capital Square                          	| Ikoyi           	| Lagos     	| 0817 223 3775 	| Link              	| Capital Square                          	|
+| Capital Square                          	| Lekki           	| Lagos     	| 0817 223 3776 	| Link              	| Capital Square                          	|
+| Workstation                             	| Victoria Island 	| Lagos     	| 0818 826 9675 	| Link              	| Workstation                             	|
+| Co-Creation Hub (CcHub)                 	| Yaba            	| Lagos     	| 01 295 0555   	| Link              	| CcHub                                   	|
+| Leadspace                               	| Yaba            	| Lagos     	| 0703 357 9178 	| Link              	| Leadspace                               	|
+| Leadspace                               	| Ojodu           	| Lagos     	| 0703 357 9179 	| Link              	| Leadspace                               	|
+| Workbay                                 	| Maryland        	| Lagos     	| 0802 547 2953 	| Link              	| Workbay                                 	|
+| Workbay                                 	| Ikeja           	| Lagos     	| 0802 547 2954 	| Link              	| Workbay                                 	|
+| Workbay                                 	| Lekki           	| Lagos     	| 0802 547 2955 	| Link              	| Workbay                                 	|
+| BVF Business Hub                        	| Lekki           	| Lagos     	| 0813 813 4454 	| Link              	|                                         	|
+| Impact Hub                              	| Ikoyi           	| Lagos     	| 0909 215 6205 	| Link              	| Impact Hub                              	|
+| V8 Valley - Workspace                   	| Lekki           	| Lagos     	| 0809 952 6038 	| Link              	| V8 Valley                               	|
+| Enclaave                                	| Lekki           	| Lagos     	| 0903 068 7100 	| Link              	| Enclaave                                	|
+| Velocity                                	| Lekki           	| Lagos     	| 0909 000 0457 	| Link              	| Velocity                                	|
 | EMR Office                              	| Ikoyi           	| Lagos     	|               	| Link              	|                                         	|
 | Wennovation Hub                         	| Ikeja           	| Lagos     	| 0909 000 2647 	| Link              	| Wennovation Hub                         	|
 | CubeHub                                 	| Ikeja           	| Lagos     	| 0706 787 0861 	| Link              	| CubeHub                                 	|
