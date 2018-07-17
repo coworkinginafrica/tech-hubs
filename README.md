@@ -1,3 +1,5 @@
+This list is also available as a [Google Sheet doc](http://bit.ly/frtn-resource-techhubs).
+
 # A Comprehensive List of Tech Hubs In And Around Nigeria
 
 | Co-Working Space Name                   	| Location        	| State     	| Contact No    	| Map Address Link 	| Site Link                               	|
