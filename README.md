@@ -84,3 +84,10 @@ This list is also available as a [Google Sheet doc](http://bit.ly/frtn-resource-
 | KoWork NG                               	| Port Harcourt   	| Rivers    	| 0909 909 3603 	| Address Link              	| KoWork NG                               	|
 | Ken-Saro Wiwa Foundation Innovation Hub 	| Port Harcourt   	| Rivers    	|               	| Address Link              	| Ken-Saro Wiwa Foundation Innovation Hub 	|
 | SnapiLABs                               	| Port Harcourt   	| Rivers    	| 0811 211 0000 	| Address Link              	| SnapiLABs                               	|
+
+
+---
+Sources:
+* [Unicodeveloper on GitHub](https://github.com/unicodeveloper/tech-hubs)
+* TechPoint.ng [link 1](https://techpoint.ng/2017/03/06/list-tech-hubs-across-nigeria/) [link 2](https://techpoint.ng/2017/05/02/co-working-spaces-lagos-nigeria/)
+* [Google Maps](https://www.google.com.ng/maps/search/coworking+space+in+nigeria/@8.9772343,5.4208811,6.67z)
