@@ -87,7 +87,7 @@ This list is also available as a [Google Sheet doc](http://bit.ly/frtn-resource-
 
 
 ---
-Sources:
+Adapted from: 
 * [Unicodeveloper on GitHub](https://github.com/unicodeveloper/tech-hubs)
 * TechPoint.ng ([link 1](https://techpoint.ng/2017/03/06/list-tech-hubs-across-nigeria/), [link 2](https://techpoint.ng/2017/05/02/co-working-spaces-lagos-nigeria/))
 * [Google Maps](https://www.google.com.ng/maps/search/coworking+space+in+nigeria/@8.9772343,5.4208811,6.67z)
