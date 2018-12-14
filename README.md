@@ -84,7 +84,7 @@ This list is also available as a [Google Sheet doc](http://bit.ly/frtn-resource-
 | KoWork NG                               	| Port Harcourt   	| Rivers    	| 0909 909 3603 	| Address Link              	| KoWork NG                               	|
 | Ken-Saro Wiwa Foundation Innovation Hub 	| Port Harcourt   	| Rivers    	|               	| Address Link              	| Ken-Saro Wiwa Foundation Innovation Hub 	|
 | SnapiLABs                               	| Port Harcourt   	| Rivers    	| 0811 211 0000 	| Address Link              	| SnapiLABs                               	|
-
+| Afrique Innovation Hub                    | Yenagoa           | Bayelsa State | 0703 469 6973     | [Address Link](https://goo.gl/maps/Errebe1JzyQ2)
 
 ---
 Adapted from: 
